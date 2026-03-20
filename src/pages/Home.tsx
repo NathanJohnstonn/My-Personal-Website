@@ -1,7 +1,7 @@
 export function Home() {
     return (
         <>
-            <div>Nate Johnston</div>
+            <div>This is the home page.</div>
         </>
-    )
+    );
 }

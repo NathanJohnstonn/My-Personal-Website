@@ -7,7 +7,7 @@ export function Error() {
                 <div className="font-semibold animate-pulse">ERROR 404</div>
                 <hr className="border-1 m-5 w-5 text-slate-200"/>
                 <div>That content could not be found.</div>
-                <div>Return to the main <NavLink to="/">website.</NavLink></div>
+                <div>Return to the main <NavLink to="/" className="text-blue-500 underline">website.</NavLink></div>
             </div>
         </>
     );
